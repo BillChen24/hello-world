@@ -1,4 +1,5 @@
 # hello-world
-just another repository
-I'm Bill Chen
-I like coding
+just another repository\n
+I'm Bill Chen\n
+I like coding\n
+
